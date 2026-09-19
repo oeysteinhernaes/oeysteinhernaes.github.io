@@ -96,7 +96,5 @@ organisational_work:
 languages:
   - level: "Fluent"
     list: "Norwegian, English"
-  - level: "Intermediate"
-    list: "French"
   - level: "Basic"
-    list: "Spanish, Italian"
+    list: "French, Italian, Spanish"

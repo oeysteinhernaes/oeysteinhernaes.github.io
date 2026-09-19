@@ -1,5 +1,7 @@
 ---
 layout: default
+seo:
+  type: Person
 ---
 
 {% assign p = site.data.profile %}

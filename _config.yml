@@ -1,4 +1,5 @@
 title: "Øystein M. Hernæs"
+tagline: "Senior researcher, Ragnar Frisch Centre for Economic Research"
 description: "Senior researcher at the Ragnar Frisch Centre for Economic Research. Research on labor, education, child welfare, pensions, health and empirical political economy."
 baseurl: ""
 url: "https://oeysteinhernaes.github.io"
@@ -7,6 +8,24 @@ logo: /assets/images/profile.jpg
 twitter:
   username: ohernaes
   card: summary
+
+# Feeds sameAs on the homepage's JSON-LD (Person schema, see index.md) -- these are the
+# same links as _data/profile.yml's socials list; kept separately since _config.yml
+# can't read _data at load time. Update both if the social links change.
+social:
+  links:
+    - https://frischsenteret.no/person-details/?person_id=oysteimh
+    - https://twitter.com/ohernaes
+    - https://www.linkedin.com/in/%C3%B8ystein-hern%C3%A6s-a526402/
+    - https://scholar.google.com/citations?user=dNIe1mYAAAAJ&hl=no&oi=ao
+    - http://oeysteinmhernaes.com
+
+# Default social-share preview image (og:image / twitter:image) for every page.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/profile.jpg
 
 markdown: kramdown
 kramdown:

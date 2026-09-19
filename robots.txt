@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oeysteinhernaes.github.io/sitemap.xml
