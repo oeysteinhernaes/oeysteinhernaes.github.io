@@ -1,0 +1,25 @@
+title: "Øystein M. Hernæs"
+description: "Senior researcher at the Ragnar Frisch Centre for Economic Research. Research on labor, education, child welfare, pensions, health and empirical political economy."
+baseurl: ""
+url: "https://oeysteinhernaes.github.io"
+
+logo: /assets/images/profile.jpg
+twitter:
+  username: ohernaes
+  card: summary
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Only plugins on GitHub Pages' whitelisted list — keeps the build on GitHub's own
+# zero-maintenance Jekyll pipeline (no custom Actions workflow required).
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md

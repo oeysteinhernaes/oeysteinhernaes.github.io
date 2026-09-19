@@ -1,0 +1,593 @@
+# Transcribed verbatim from the Research page (fetched directly from the live DOM, not summarized).
+# Schema per entry: section, title, authors (list of {name, url}) rendered inline as "with A, B and C"
+# (or "med ... og ..." for Norwegian sections), venue/venue_url (hyperlinked when a url exists),
+# note (free text), links (list of {label, url} for preprints/discussion papers/presentations/media —
+# NOT for the venue or coauthors, which render inline above to avoid duplicating the same link twice).
+
+- section: working_papers
+  title: "Has AI Widened Employment Gaps? Tracking Early-Career Employment by Occupational Exposure in Norway"
+  year: 2026
+  abstract: "This paper uses data on the universe of private-sector employment in Norway up to February 2026 to examine whether AI exposure has contributed to a widening employment gap across occupations with varying AI exposure. Since October 2022, the month before ChatGPT's release, employment in the most exposed occupations has grown by 0.1 percent, against 0.3 percent in the least exposed occupations. We track this number on a monthly basis on the public dashboard kiindeksen.no. The dashboard updates the full-distribution comparison each month as new administrative data arrives, allowing differential employment growth by AI exposure to be tracked over time. We also show that when we compare young workers by complete occupation quintiles of exposure, the relative decline of the most exposed quintile is estimated as an imprecise zero."
+  authors:
+    - {name: "Andreas R. Kostøl", url: "https://andreaskostol.no/"}
+  links:
+    - {label: "IZA Discussion Paper No. 18767", url: "https://www.iza.org/publications/dp/18767/has-ai-widened-employment-gaps-tracking-early-career-employment-by-occupational-exposure-in-norway"}
+    - {label: "Rockwool Foundation Berlin Discussion Paper 179/26", url: "https://www.rfberlin.com/network-paper/has-ai-widened-employment-gaps-tracking-early-career-employment-by-occupational-exposure-in-norway/"}
+
+- section: working_papers
+  title: "Cutting Minimum Benefits Did Not Increase Young Temporary Disability Insurance Recipients' Labor Supply – Evidence from Norway's Work Assessment Allowance Program"
+  authors:
+    - {name: "Max-Emil M. King", url: "https://www.maxemilking.com/"}
+  links:
+    - {label: "Presentation", url: "https://www.dropbox.com/scl/fi/lirg8b2csc8b6h4pjbth4/AAP_minstesats_presentation.pdf?rlkey=46oi1wwtbjj74a8ssvonlnp5p&dl=0"}
+
+- section: working_papers
+  title: "Labor market effects of a public sector pension reform. Evidence from near real-time administrative data"
+  year: 2025
+  authors:
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Oddbjørn Raaum", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
+    - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+    - {name: "Tao Zhang"}
+  links:
+    - {label: "Pre-registration with analysis plan", url: "https://osf.io/yx7uf"}
+    - {label: "Presentation", url: "https://www.dropbox.com/scl/fi/jypfpxhi1frx1ru44hi66/presentation.pdf?rlkey=pobcjyfcq3uhd6ecjp38cpgk1&dl=0"}
+
+- section: working_papers
+  title: "Labor Market Effects of an Increase in the Pension Claiming Age – Evidence from a Flexible Pension System"
+  year: 2025
+  abstract: "We study a reform that raised the earliest eligibility age for public pensions from 61 to 62. Using rich Swedish administrative data and a difference-in-differences design that compares adjacent age groups differentially affected by the new threshold, we assess the reform's effects on pension claiming, labor supply, social insurance benefit receipt, and disposable income. Prior to the reform, around 10% of individuals claimed their public pension at age 61. The reform mechanically reduced this share to zero, but also induced delayed claiming beyond the new threshold, including postponed occupational and private pension claims. Employment increased by up to 1.3 percentage points, and sickness and unemployment benefit receipt rose by 0.6–0.9 and 0.1–0.2 percentage points, respectively. These responses were concentrated among low-income individuals who were already working. For this group, increased work offset the delayed pension access and left disposable income largely unchanged. In contrast, non-working low-income individuals and the self-employed experienced a substantial short-term decline in disposable income, ranging from 7 to 10%. Our findings point to liquidity constraints and behavioral responses as key mechanisms in eligibility age reforms within a flexible, actuarially neutral pension system where work and pension claiming are decoupled. Overall, the reform had a modest yet positive net fiscal impact."
+  authors:
+    - {name: "Johannes Hagen", url: "https://sites.google.com/view/johannes-hagen/startsida"}
+    - {name: "Alireza Khoshghadam", url: "https://sites.google.com/view/alireza-khoshghadam"}
+    - {name: "Stefanie König", url: "https://www.researchgate.net/profile/Stefanie-Koenig-4"}
+  links:
+    - {label: "Manuscript", url: "https://www.dropbox.com/scl/fi/h0ll2ep8ebklntagllb8b/Manuscript_2025_06_02.pdf?rlkey=jw8z946m9cokuc6ik8eowksee&dl=0"}
+    - {label: "Netspar Academic paper 2025-18", url: "https://www.netspar.nl/en/knowledge-hub/labor-market-effects-of-an-increase-in-the-early-eligibility-age-in-a-flexible-pension-system/"}
+    - {label: "Presentation", url: "https://www.dropbox.com/scl/fi/kl6ye0jjib85w3qm8p57f/presentation_OH_Netspar.pdf?rlkey=761fgkvuuvxqa1xify61x2st8&dl=0"}
+
+- section: working_papers
+  title: "Quit and die – the effects of working longer on mortality"
+  authors:
+    - {name: "Bernt Bratsberg", url: "https://frischsenteret.no/english/people-details/page/10/?person_id=berntmb"}
+    - {name: "Anna Godøy", url: "https://sites.google.com/site/annagodoey/home"}
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Ole Røgeberg", url: "https://frischsenteret.no/english/people-details/?person_id=olejr"}
+
+- section: working_papers
+  title: "Mild health shocks, timely care and late-career labor supply"
+  authors:
+    - {name: "Anna Godøy", url: "https://sites.google.com/site/annagodoey/home"}
+
+- section: working_papers
+  title: "Does high-speed internet erode democracy? Evidence on turnout and polarization from a Norwegian broadband reform"
+  authors:
+    - {name: "Sebastian Ellingsen", url: "https://sebastianellingsen.github.io/"}
+    - {name: "Øyvind Skorge", url: "https://scholar.google.com/citations?user=e4XUkwUAAAAJ"}
+
+- section: working_papers
+  title: "Adult outcomes of youths placed in residential institutions versus foster care"
+  year: 2023
+  authors:
+    - {name: "Nina Drange", url: "https://sites.google.com/site/ninadrange/home"}
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Oddbjørn Raaum", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
+  links:
+    - {label: "Presentation", url: "https://www.dropbox.com/s/ox0xjhz3uxpyzv3/2023-05-23%20Hernaes-Institution%20vs%20foster%20care_Nordloch%20workshop%20Copenhagen.pptx?dl=0"}
+    - {label: "Norwegian presentation", url: "https://www.dropbox.com/scl/fi/hsmb4msmyh01lahwfgbsa/2023-10-31-Hernaes-Institusjonsplasserte-13-18.pptx?rlkey=ndjgogjjhsz348449b3ia4j8h&dl=0"}
+
+- section: working_papers
+  title: "Do people use luxury cars to signal pecuniary strength? A test of conspicuous-consumption theory using a public disclosure reform"
+  year: 2017
+  abstract: "This paper evaluates whether signaling income or wealth is an important motive for owning expensive cars, which is a key premise in models of conspicuous consumption. Analyzing the introduction of online publication of tax records containing income and wealth in Norway in 2001, I find no effect on conspicuous consumption as measured by expensive cars. The findings suggest a re-interpretation of standard models of conspicuous consumption."
+  note: "Resting – let me know if you or someone else would like to join finishing it!"
+  links:
+    - {label: "Manuscript", url: "https://www.dropbox.com/scl/fi/h6defmrw7xqw0ofgc3dev/2017-05-Do-people-use-luxury-cars-to-signal-wealth.pdf?rlkey=pusr1cicjxjfepn4d0cbw29lu&dl=0"}
+
+- section: international_publications
+  title: "Foster Care or In-Home Support: Differences in Mental Health Treatment, Education and Crime"
+  abstract: "This study traces the trajectories of children before and after their first involvement with Child Welfare Services (CWS), comparing outcomes for those placed in foster care with those who received home-based services. Leveraging administrative data covering more than two decades, we follow these children from infancy through childhood and into adulthood, tracking outcomes in health, education, crime, welfare dependence, and labor market participation. We follow children around the time of their initial CWS contact. We show that children placed in foster care are substantially more likely to receive mental health treatment in the years following the first intervention, with the increase substantially larger for girls than for boys. In contrast, we observe only modest later differences between the two groups across other outcomes. Using geographical variation in the likelihood of being assigned to foster care, we corroborate the finding that foster care placement increases mental healthcare use. One interpretation of this pattern is that foster care placement compensates for childhood adversity by improving access to mental health care services."
+  authors:
+    - {name: "Nina Drange", url: "https://sites.google.com/site/ninadrange/home"}
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Oddbjørn Raaum", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
+  venue: "Health Economics, forthcoming"
+
+- section: international_publications
+  title: "The Sources of Researcher Variation in Economics"
+  abstract: "We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which restricted research design choices, exhibited slightly higher IQR (4.0 percentage points), largely attributable to imperfect adherence to the prescribed protocol. By contrast, the final stage, featuring standardized data cleaning, narrowed variation in estimated effects, achieving an IQR of 2.4 percentage points."
+  authors:
+    - {name: "Nick Huntington-Klein", url: "https://nickchk.com/"}
+    - {name: "Claus C. Pörtner", url: "https://clausportner.com/"}
+    - {name: "Sebastian Gallegos", url: "https://www.iza.org/people/fellows/34810/sebastian-gallegos"}
+    - {name: "146 others"}
+  venue: "Journal of Economic Literature, forthcoming"
+  links:
+    - {label: "NBER wp", url: "https://www.nber.org/papers/w33729"}
+    - {label: "I4R dp", url: "https://www.econstor.eu/handle/10419/312260"}
+    - {label: "IZA dp", url: "https://www.iza.org/de/publications/dp/17744"}
+
+- section: international_publications
+  title: "Investigating the analytical robustness of the social and behavioural sciences"
+  year: 2026
+  abstract: "The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts' choices. We examined a stratified random sample of 100 studies published between 2009 and 2018, in which, for one claim per study, at least five reanalysts independently reanalysed the original data. The statistical appropriateness of the reanalyses was assessed in peer evaluations, and the robustness indicators were inspected along a range of research characteristics and study designs. We found that 34% of the independent reanalyses yielded the same result (within a tolerance region of ±0.05 Cohen's d) as the original report; with a four times broader tolerance region, this indicator increased to 57%. Of the reanalyses conducted, 74% reached the same conclusion as the original investigation, 24% yielded no effects or inconclusive results and 2% reported the opposite effect. This exploratory study indicates that the common single-path analyses in social and behavioural research should not be simply assumed to be robust to alternative analyses. Therefore, we recommend the development and use of practices to explore and communicate this neglected source of uncertainty."
+  authors:
+    - {name: "Balázs Aczél", url: "https://metasciencelab.elte.hu/members/balazs-aczel/"}
+    - {name: "Barnabas Szászi", url: "https://www.barnabasszaszi.com/"}
+    - {name: "Livia Kósa"}
+    - {name: "Zoltán Torma"}
+    - {name: "Hannah Schulz-Kümpel"}
+    - {name: "Harry T Clelland"}
+    - {name: "Sabine Hoffmann"}
+  et_al: true
+  venue: "Nature 652, 135–142"
+  venue_url: "https://doi.org/10.1038/s41586-025-09844-9"
+  open_access: true
+  links:
+    - {label: "OSF project link", url: "https://osf.io/q5h2c/"}
+
+- section: international_publications
+  title: "No Payoff from Time Off? Mandated Paid Vacation and Late-Career Employment"
+  year: 2026
+  abstract: "This study examines the effect of an additional week of paid vacation on labor market attachment among Norwegian workers at age 60. Employing a triple-differences estimation strategy, we exploit age-based eligibility thresholds before and after a 2009 reform to identify causal effects. Our findings indicate that the extra leave has negligible effects on both employment, sickness absence and disability benefit receipt in the year workers first receive it. If anything, some workers use the additional vacation time to increase earnings from secondary employers. The results imply that policymakers should consider alternative measures to mandated leave to support an aging workforce."
+  authors:
+    - {name: "Simon Bensnes", url: "https://sites.google.com/site/simonsoebstadbensnes/home"}
+    - {name: "Max-Emil M. King", url: "https://www.maxemilking.com/"}
+  venue: "Journal of Economic Behavior and Organization"
+  venue_url: "https://doi.org/10.1016/j.jebo.2026.107526"
+  links:
+    - {label: "IZA Discussion Paper 18121", url: "https://www.iza.org/publications/dp/18121/no-payoff-from-time-off-mandated-paid-vacation-and-late-career-employment"}
+    - {label: "Op-ed (in Norwegian): Aftenposten 14. januar 2025", url: "https://www.aftenposten.no/meninger/debatt/i/d4lldA/trenger-dagens-60-aaringer-en-ekstra-ferieuke"}
+
+- section: international_publications
+  title: "Performance Pay of Program Providers and Participants' Employment Outcomes: A Field Experiment with employment services in Norway"
+  year: 2025
+  abstract: "This study examines whether performance-based pay for private employment service providers improves employment outcomes for program participants compared to traditional hourly compensation. Finding effective ways to outsource public services to external providers has the potential to improve the quality and efficiency of these services. Using a large-scale randomized controlled trial (RCT) conducted in Norway from April 2018 to December 2021, we evaluate the impact of different payment models on the performance of private firms in delivering labor market programs. A total of 4898 unemployed individuals were randomly assigned to either a treatment group (37%), where providers received performance-based pay contingent on participants' employment outcomes, or a control group (63%), where providers were compensated on an hourly basis. Despite the substantial financial incentives involved, our findings reveal no significant differences in employment rates, earnings, or hours worked between the two groups. The results allow us to rule out effects on monthly earnings of ±€5 and employment effects of ±1 percentage points after 12 months. There were no indications of heterogeneous treatment effects across different participant groups. A cost-benefit analysis suggests a supportive case for performance pay due to lower public costs, although this estimate is subject to uncertainty."
+  venue: "Labour Economics, Volume 95, August 2025"
+  venue_url: "https://doi.org/10.1016/j.labeco.2025.102753"
+
+- section: international_publications
+  title: "Variation in Outcomes of Mandated Child Welfare Referrals in Norway"
+  year: 2025
+  abstract: "We use administrative register data from the Norwegian child welfare service (CWS) to analyse the outcomes of 252,144 CWS referrals received between 2014 and 2020. Using a Bayesian hierarchical model, we document extensive and systematic variation across time, across referral sources and across referral concerns. Defining high severity cases as cases in which the CWS seeks mandatory interventions, mandated and nonmandated reporters have similar substantiation rates, but this shared probability declines by half across our data period. The differences in substantiation rates across reporting sources persist when comparing referrals with identical referral concerns. Drawing on the extant literature, we suggest that occupational groups may have evolved diverging reporting practices as a consequence of vague official guidelines combined with a lack of systematic training in identifying relevant cues of maltreatment. We also highlight a possible tension in the Norwegian system: while the family-oriented Norwegian CWS largely opens cases based on referrals, its aim is to work preventively and voluntarily with families before issues reach the severity covered by existing reporting mandates."
+  authors:
+    - {name: "Ole Røgeberg", url: "https://frischsenteret.no/english/people-details/?person_id=olejr"}
+    - {name: "Mette Sønderskov", url: "https://scholar.google.com/citations?user=J4acxb4AAAAJ&hl=no"}
+    - {name: "Terje Ødegaard", url: "https://www.inn.no/om-hoegskolen/ansatte/terje-odegaard"}
+  venue: "Child & Family Social Work, Volume 31, Issue 1, pp. 550-565"
+  venue_url: "https://doi.org/10.1111/cfs.13308"
+  links:
+    - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/09/Preprint-Variation-in-Outcomes-of-Mandated-Child-Welfare-Referrals-in-Norway.pdf"}
+
+- section: international_publications
+  title: "Do Criminogenic Needs Matter in Non-Secure Settings? Assessing Change in Dynamic Risk Factors During Therapeutic Residential Care and the association with Prediction and Recidivism"
+  year: 2025
+  abstract: "This study examined changes in dynamic risk factors during non-secure therapeutic residential care (TRC) and their association with recidivism among 313 at-risk adolescents in Norway. Risk was assessed using the Youth Level of Service/Case Management Inventory (YLS/CMI) at intake and post-treatment, and recidivism was tracked over a 1-year period after TRC. Significant reductions in YLS/CMI risk scores were observed during treatment, and both post-treatment and change scores were significant predictors of future justice system involvement. Overall, reductions in most dynamic domains were linked to lower odds of recidivism. These findings emphasize the importance of reassessing risk factors to monitor progress, enhance recidivism prediction, inform follow-up services, and highlight the value of addressing criminogenic needs during residential treatment."
+  authors:
+    - {name: "Harald Kanestrøm"}
+    - {name: "Jannike Kaasbøll", url: "https://www.ntnu.edu/employees/jannike.kaasboll"}
+    - {name: "Marianne Stallvik", url: "https://www.ntnu.edu/employees/marianne.stallvik"}
+    - {name: "Stian Lydersen", url: "https://www.ntnu.edu/employees/stian.lydersen"}
+    - {name: "Norbert Skokauskas", url: "https://www.ntnu.edu/employees/norbert.skokauskas"}
+  venue: "Crime and Delinquency, Volume 71, Issue 13-14"
+  venue_url: "https://doi.org/10.1177/00111287251330776"
+  open_access: true
+
+- section: international_publications
+  title: "Demand-Side Management in Fully Electrified Homes"
+  year: 2025
+  abstract: "We report the results of a critical peak pricing (CPP) experiment conducted in an environment where homes are fully electrified, including both room and water heating. When a CPP with day-ahead SMS announcements is applied to the afternoon peak, creating a 10-fold increase in the electricity price, electricity consumption decreases by 15.3%, virtually eliminating that peak. The largest responses come from electric vehicle (EV) households. Also, unlike households without EVs who make reductions without compensating later, EV households respond to the CPP by shifting load to off-peak and next-day use. In our experiment, where higher-income households are disproportionately likely to own EVs, we find that demand reductions induced by the CPP are similar across income groups. Our results support the view that increased electrification may not only lead to a greater need for demand-side management but also enhance the flexibility in how households can and are willing to respond."
+  authors:
+    - {name: "Cloé Garnache", url: "https://sites.google.com/view/cloegarnache/home"}
+    - {name: "Anders Gravir Imenes"}
+  venue: "Journal of the Association of Environmental and Resource Economists, Volume 12, Number 2, March 2025"
+  venue_url: "https://doi.org/10.1086/731607"
+  note: "Received the Ralph C. d'Arge and Allen V. Kneese Award for Outstanding Publication in the Journal of the Association of Environmental and Resource Economists, 2025."
+  links:
+    - {label: "Award announcement", url: "https://www.aere.org/best-jaere-paper-award-recipients"}
+    - {label: "IZA Discussion Paper 15194", url: "https://docs.iza.org/dp15194.pdf"}
+    - {label: "CESifo Working Paper 9657", url: "https://www.cesifo.org/en/publications/2022/working-paper/which-households-respond-electricity-peak-pricing-amid-high-levels"}
+    - {label: "Twitter thread", url: "https://x.com/CGarnache/status/1879931633190793432"}
+
+- section: international_publications
+  title: "When health trumps money: Economic incentives and health equity in the public provision of nursing homes in Norway"
+  year: 2023
+  abstract: "The allocation of public care services should be determined by individual needs, but can be influenced by economic factors. This paper examines the impact of economic incentives on the allocation of public nursing home care in the Norwegian long-term care system. In Norway, municipalities and city districts have economic incentives for choosing nursing home care for high-income individuals in need of care and home-based care in sheltered housing for low-income individuals. The study uses a theoretical model and empirical data from the municipality of Oslo to determine if nursing home spots are allocated based on income, which would be financially advantageous for the city districts. We do not find evidence that the economic incentives of the care provider play a role in the allocation of nursing homes. Thus, in this setting, needs seem to be the dominant factor for allocation of nursing home care, while economic incentives seem to play no significant role. The clear legal mandate to provide services based on needs only is likely an important factor in this."
+  authors:
+    - {name: "Snorre Kverndokk", url: "https://scholar.google.com/citations?user=fPzDLGYAAAAJ&hl=en"}
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Henning Øien", url: "https://www.fhi.no/en/ab/departments-and-centres/health-services-research/henning-oien/"}
+  venue: "Social Science and Medicine, Volume 333, September 2023, 116116"
+  venue_url: "https://doi.org/10.1016/j.socscimed.2023.116116"
+
+- section: international_publications
+  title: "Making Activation for Young Welfare Recipients Mandatory"
+  year: 2023
+  abstract: "Activation policies to promote self-sufficiency among recipients of welfare and other types of benefits are becoming more common in many welfare states. We evaluate a law change in Norway making welfare receipt conditional on participation in an activation program for all welfare recipients below the age of 30. Analysing the program's staggered implementation across municipalities with several modern event study estimators, we estimate that the law change had quite precise 0-effects on benefit receipt, work and education. We also do not find any effects on the probability of being out of work or of being in employment, education or labour market programs. Qualitative evidence suggests that the zero effect may be due to the law change only impacting the participation of recipients with low expected gain from activation."
+  authors:
+    - {name: "Espen S. Dahl", url: "https://www.oslomet.no/about/employee/espendah/"}
+  venue: "LABOUR: Review of Labour Economics and Industrial Relations, Volume 37, Issue 1, March 2023, Pages 96-121"
+  venue_url: "https://onlinelibrary.wiley.com/doi/10.1111/labr.12238"
+  links:
+    - {label: "IZA Discussion Paper 15170", url: "https://docs.iza.org/dp15170.pdf"}
+
+- section: international_publications
+  title: "Party Leaders and Voter Responses to Political Terrorism"
+  year: 2021
+  abstract: "In this article, we study the political implications of terrorism rooted in extremist political ideologies. Our data uniquely allow studying the potential role of party leader evaluations on political outcomes, including voter turnout and vote choice. To strengthen causal identification, we combine an event-study framework with the fact that Norwegians were affected personally to differing degrees by the 22 July 2011 terror attack because of variation in the victims' municipalities of residence. Our main findings suggest that extreme right-wing terrorism influences party vote intentions and evaluations of political leaders strongly in the short run, as well as party choice in actual elections in the longer run. We document shifts within Norway's left-right political blocs rather than shifts between those blocs frequently observed following religious/separatist violence."
+  authors:
+    - {name: "Benny Geys", url: "https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/"}
+  venue: "Public Choice, 187, 481-499 (2021)"
+  venue_url: "https://doi.org/10.1007/s11127-020-00789-3"
+  open_access: true
+  # Note: frischsenteret.no's own "Les fulltekstversjonen" link for this one 404s
+  # even on their live site (checked 2026-09-19) — not linking to a dead file.
+
+- section: international_publications
+  title: "Going through hell – Increased work effort in the aftermath of terrorism in Norway"
+  year: 2021
+  abstract: "I analyze how sickness-absence behavior in Norwegian municipalities was affected by exposure to the terrorist attack in Norway in 2011. The main finding is that in municipalities from which a resident was killed in the attack, sickness absence declined by 4 percent compared with municipalities without victims. The effect is precise, stable, and persistent. The results do not seem to be driven by changing labor market composition. The effect is found also in neighboring municipalities and is larger for people close to the age of the victims."
+  venue: "Scandinavian Journal of Economics, Volume 123, Issue 1, Jan 2021"
+  venue_url: "https://doi.org/10.1111/sjoe.12404"
+  links:
+    - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Hernaes2019Going.pdf"}
+  media:
+    - {label: "Dagens Næringsliv 2014-09-27", url: "https://web.archive.org/web/20170420135354/http://www.dn.no/nyheter/politikkSamfunn/2014/09/26/2156/Arbeidsliv/lavere-sykefravr-for-generasjon-utya"}
+    - {label: "NRK", url: "http://www.nrk.no/nyheter/lavere-sykefravaer-hos-terrorrammede-1.11955130"}
+    - {label: "Klassekampen", url: "http://www.klassekampen.no/article/20140927/NTBO/124822646"}
+    - {label: "Adresseavisen", url: "http://www.adressa.no/nyheter/innenriks/article10173102.ece"}
+
+- section: international_publications
+  title: "Distributional effects of welfare reform for young adults: An unconditional quantile regression approach"
+  year: 2020
+  abstract: "The paper evaluates the distributional effects on earnings and income of requiring young welfare recipients to fulfill conditions related to work and activation. It exploits within-social insurance office variation in policy arising from a geographically staggered reform in Norway. The reform reduced welfare uptake and for women had large, positive effects in the lower part of the earnings distribution. The effect on the distribution of total income is also positive, thus gains in earnings more than offset reduced welfare benefits. Fewer welfare payments and smaller caseloads make the policy highly cost-effective."
+  venue: "Labour Economics, Volume 65, August 2020"
+  venue_url: "https://doi.org/10.1016/j.labeco.2020.101818"
+  links:
+    - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Distributional_effects.pdf"}
+    - {label: "IZA Discussion Paper No. 11340", url: "https://www.iza.org/publications/dp/11340"}
+
+- section: international_publications
+  title: "Young adults and the (non)-formation of voting habits – Evidence from Norwegian First‐time Eligible Citizens"
+  year: 2019
+  abstract: "This article exploits variation in age among first-time eligible citizens in Norwegian elections that arises through voting eligibility rules and two-year election cycles to investigate voting habits. I find that obtaining the right to vote at a lower age is associated with substantially higher turnout among first-time eligible citizens, however, this difference in political participation does not persist for subsequent elections. Building on the established literature on the habitual nature of voting, the results show that getting young citizens to vote once is not sufficient to create a habit of voting, and suggest that how the voting decision is made matter for the habit formation process."
+  venue: "Scandinavian Political Studies, Volume 42, Issue 2"
+  venue_url: "https://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12139"
+
+- section: international_publications
+  title: "Television, Cognitive Ability, and High School Completion"
+  year: 2019
+  abstract: "We exploit supply-driven heterogeneity in the expansion of cable television across Norwegian municipalities to identify developmental effects of commercial television exposure during childhood. We find that higher exposure to commercial television reduces cognitive ability and high school graduation rates for boys. The effects appear to be driven by consumption of light television entertainment crowding out more cognitively stimulating activities. Point estimates suggest that the effects are most negative for boys from more educated families. We find no effect on high school completion for girls, pointing to the growth of noneducational media as a factor in the widening educational gender gap."
+  authors:
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+  venue: "Journal of Human Resources, Spring 2019 vol. 54 no. 2 371-400"
+  venue_url: "http://jhr.uwpress.org/content/54/2/371.abstract"
+  links:
+    - {label: "Preprint (postprint)", url: "https://frischsenteret.no/wp-content/uploads/2025/07/TV_and_cognitive_ability_JHR_postprint.pdf"}
+    - {label: "IZA Discussion Paper No. 9645", url: "http://ftp.iza.org/dp9645.pdf"}
+  media:
+    - {label: "Pat Sharp (Twitter)", url: "https://twitter.com/patsharp/status/689525153538150400"}
+    - {label: "Dagens Næringsliv 2016-03-18", url: "https://web.archive.org/web/20201108141131/https://www.dn.no/medier/grafen-viser-utviklingen-i-norske-gutters-intelligens-na-tror-forskere-de-har-funnet-sammenhengen/1-1-5604950"}
+    - {label: "Aftenposten", url: "https://web.archive.org/web/20160526083227/http://www.aftenposten.no/nyheter/iriks/Norske-gutter-blir-dummere---forskere-mener-TV-kan-ha-skylda-8399224.html"}
+    - {label: "Dagbladet", url: "http://www.dagbladet.no/2016/03/18/kultur/utdanning/intelligens/forskning/tv/43573613/"}
+    - {label: "VG", url: "http://www.vg.no/forbruker/helse/oppvekst/forskere-tror-tv-kan-ha-gjort-norske-gutter-dummere/a/23641275/"}
+    - {label: "The New York Times – the Upshot 2019-07-25", url: "https://www.nytimes.com/2019/07/25/upshot/social-effects-television.html"}
+
+- section: international_publications
+  title: "Activation against Absenteeism: Evidence from a Sickness Insurance Reform in Norway"
+  year: 2018
+  abstract: "I evaluate a program aimed at strictly enforcing a requirement that people on long-term sick leave be partly back at work unless explicitly defined as an exception. Employing the synthetic control method, I find that the reform reduced work-hours lost due to sickness absenteeism by 12% in the reform region compared to a comparison unit created by a weighted average of similar regions. The effect is driven by both increased part-time presence of temporary disabled workers and accelerated recovery. Musculoskeletal disorders was the diagnosis group declining the most. The findings imply large savings in social security expenditures."
+  venue: "Journal of Health Economics, Volume 62, November 2018, Pages 60-68"
+  venue_url: "https://www.sciencedirect.com/science/article/pii/S0167629617311700"
+  links:
+    - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Activation_JHealthEcon.pdf"}
+    - {label: "IZA Discussion Paper No. 10991", url: "http://legacy.iza.org/en/webcontent/publications/papers/viewAbstract?dp_id=10991"}
+
+- section: international_publications
+  title: "Welfare Activation and Youth Crime"
+  year: 2019
+  abstract: "We evaluate the impact on youth crime of a welfare reform that tightened activation requirements for social assistance clients. The evaluation strategy exploits administrative individual data in combination with geographically differentiated implementation of the reform. We find that the reform reduced crime among teenage boys from economically disadvantaged families. Stronger reform effects on weekday versus weekend crime, reduced school dropout, and favorable long-run outcomes in terms of crime and educational attainment point to both incapacitation and human capital accumulation as key mechanisms. Despite lowered social assistance take-up, we uncover no indication that loss of income support pushed youth into crime."
+  authors:
+    - {name: "Bratsberg, B.", url: "https://frischsenteret.no/english/people-details/page/10/?person_id=berntmb"}
+    - {name: "Markussen, S.", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Raaum, O.", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
+    - {name: "Røed, K.", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+  venue: "Review of Economics and Statistics, 101(4): 561-574"
+  venue_url: "https://doi.org/10.1162/rest_a_00787"
+  open_access: true
+  links:
+    - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Welfare_MS20238_final_rev.pdf"}
+    - {label: "IZA Discussion Paper No. 11719", url: "http://ftp.iza.org/dp11719.pdf"}
+
+- section: international_publications
+  title: "The impact of commercial television on turnout and public policy: Evidence from Norwegian Local Politics"
+  year: 2018
+  abstract: "We investigate the impact of commercial television on political participation and local policy outcomes. Exploiting a geographically staggered expansion of cable television after the liberalization of Norwegian broadcasting in 1981, we show that higher cable television penetration significantly reduced turnout in municipal elections. Using individual-level data, we find that cable television coverage had a negative effect on the extent to which respondents were exposed to political information through mass media. The effect is more pronounced for individuals that on average watch more cable television; namely individuals with fewer years of schooling. Consistent with an increased difference in political participation and exposure to information between more and less educated groups, we find that commercial television led to reduced public spending and increased the share spent on education. The results are evidence that commercial mass media can influence electoral politics by reducing political participation and exposure to information of its target audiences."
+  authors:
+    - {name: "Sebastian Ellingsen", url: "https://sebastianellingsen.github.io/"}
+  venue: "Journal of Public Economics, Volume 159, March 2018, Pages 1-15"
+  venue_url: "https://www.sciencedirect.com/science/article/pii/S0047272718300215"
+  links:
+    - {label: "Preprint", url: "https://www.dropbox.com/scl/fi/4hv8k0z545ajvogydp6yt/Ellingsen-Hern-s-The-impact-of-commercial-television-on-turnout-and-public-policy-evidence-from-norwegian-local-politics-preprint.pdf?rlkey=f4ye49q8zs4o5k2aye6glbu6q&dl=0"}
+
+- section: international_publications
+  title: "Can welfare conditionality combat high school drop-out?"
+  year: 2017
+  abstract: "Based on administrative data, we analyze empirically the effects of stricter conditionality for social assistance receipt on welfare dependency and high school completion rates among Norwegian youths. Our evaluation strategy exploits a geographically differentiated implementation of conditionality. The causal effects are identified on the basis of larger-than-expected within-municipality changes in outcomes that not only coincide with the local timing of conditionality implementation, but do so in a way that correlates with individual ex ante predicted probabilities of becoming a social assistance claimant. We find that stricter conditionality significantly reduces welfare claims and increases high school completion rates."
+  authors:
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+  venue: "Labour Economics, Vol 48, October 2017, 144-156"
+  venue_url: "http://www.sciencedirect.com/science/article/pii/S0927537116301038"
+  links:
+    - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/CanWelfare_Labour_Ec.pdf"}
+    - {label: "IZA Discussion Paper 9644", url: "http://ftp.iza.org/dp9644.pdf"}
+
+- section: international_publications
+  title: "Demand and Supply of Prostitution"
+  year: 2014
+  abstract: "The market for sex is a contentious one, and has often been subject to heavy regulation. This chapter goes through factors that are important with regards to the demand for and supply of prostitution. A particular focus is on the relationship between laws and the quantity of sex bought and sold. The most common way that laws have been used to affect the demand for prostitution is by outright criminalization, which may lead to less prostitution, but may also drive the activity further underground. The effect of criminalizing prostitution on trafficking is ambiguous since criminalization may also lead to a substitution effect towards more trafficked prostitutes. Scarcity of reliable data is one of the main challenges for the study of prostitution."
+  authors:
+    - {name: "Niklas Jakobsson", url: "https://www.kau.se/en/researchers/niklas-jakobsson"}
+    - {name: "Andreas Kotsadam", url: "https://andreaskotsadam.wordpress.com/"}
+  venue: "Encyclopedia of Law and Economics. Springer."
+  venue_url: "http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7883-6_39-1"
+
+# Citation confirmed directly against the journal page (doi.org/10.18261/spa.42.3.2): Vol. 42, Iss. 3,
+# pp. 1–26. The old site said "Vol.32, Issue 4, pp 1-25" — that was wrong; corrected per journal record.
+- section: norwegian_publications
+  title: "Sykepengemottak blant eldre arbeidstakere i Norge 1993-2019"
+  year: 2025
+  abstract: "I denne artikkelen beskriver vi utviklingen i mottak av sykepenger blant sysselsatte i aldersgruppene 45–49 år, 50–54 år, 55–59 år og 60–66 år i Norge 1993–2019. Generelt økte sykepengemottaket markant fram til tidlig 2000-tall, for deretter å falle fram til 2019. Nedgangen har vært størst for eldre aldersgrupper og særlig stor blant 60–66-åringene, som samtidig har hatt en markant økning i sysselsetting. Det har også vært en stor nedgang i mottak av arbeidsavklaringspenger (AAP) og uføretrygd blant 60–66-åringer i samme periode, så den store nedgangen i sykepengemottaket per sysselsatt blant de eldste forklares ikke av at flere av de sykeste i denne gruppen mottar andre helserelaterte ytelser i stedet. Selv om endrede regler for tidlig uttak av pensjon har hatt stor betydning for yrkesaktiviteten til dem i 60-årene i perioden, ser dette ikke ut til å ha påvirket sykepengemottaket blant yrkesaktive i særlig grad. Økt utdanningsnivå, endret yrkessammensetning og bedret helse målt ved forventet gjenstående levetid kan forklare noe av nedgangen i sykepengemottaket, men selv når vi justerer for alle disse faktorene, gjenstår en betydelig nedgang i sykepengemottaket fra 2003 til 2019, særlig blant eldre aldersgrupper."
+  authors:
+    - {name: "Asbjørn Goul Andersen", url: "https://www.vive.dk/en/staff/asbjoern-goul-andersen-r6nd1eb2/"}
+  venue: "Søkelys på arbeidslivet, Vol. 42, Iss. 3, pp. 1–26"
+  venue_url: "https://doi.org/10.18261/spa.42.3.2"
+  open_access: true
+  links:
+    - {label: "Presentasjon", url: "https://www.dropbox.com/scl/fi/co764apne6ez0bkl6qgvx/2026-01-22-Sykefrav-r-hos-eldre-Pensjonsforum.pptx?rlkey=ac3byznlmrptcun0dji1n7q8o&dl=0"}
+    - {label: "pdf", url: "https://www.dropbox.com/scl/fi/mgobzxc1p7p48b4wlv14x/2026-01-22-Sykefrav-r-hos-eldre-Pensjonsforum.pdf?rlkey=0aqae00o2b9dlbe7hbxcdkzze&dl=0"}
+
+- section: norwegian_publications
+  title: "Yrkeskarrierer og relasjonelle belastninger"
+  year: 2026
+  abstract: "Artikkelen beskriver sammenhenger mellom yrkers grad av relasjonell eksponering og variasjoner i yrkesforløp, sykepengemottak og helserelaterte trygdeytelser. Analysen bygger på registerdata for to fødselskull fulgt over 16 år (2004–2019). Yrker er gruppert etter antatt omfang og karakter av kontakt med brukere: Dybde-yrker med emosjonelt krevende kontakt, Overflate-yrker med hyppig, men mer overflatisk kontakt, og Rest-yrker hvor slik kontakt ikke er fremtredende. Resultatene viser systematiske forskjeller mellom gruppene. Yrker med høy grad av relasjonell eksponering har gjennomgående høyere sykepengemottak og større andel mottakere av helserelaterte trygdeytelser enn øvrige yrker, også etter kontroll for kjønn, utdanning og inntekt. Forskjellene i mottak av sykepenger og helserelaterte trygdeytelser mellom yrkesgruppene er stabile eller voksende over alder. Stabiliteten i yrker og inntektsutviklingen over tid varierer mellom gruppene. Fra perioden 2004-2009 til 2014-2019, har mottak av både sykepenger og helserelaterte trygdeytelser gått ned både i Rest-yrkene og i Overflate-yrkene, mens sykepengemottaket har vært stabilt og mottak av helserelaterte trygdeytelser har gått opp i Dybde-yrkene. Forskjellene mellom yrkesgruppene har i stor grad økt."
+  authors:
+    - {name: "Erik Hernæs", url: "https://frischsenteret.no/english/people-details/?person_id=erikhe"}
+  venue: "Frisch Rapport 1/2026"
+  venue_url: "https://frischsenteret.no/wp-content/uploads/2026/04/rapport_1_26.pdf"
+  links:
+    - {label: "Presentasjon", url: "https://www.dropbox.com/scl/fi/dooh1ad6v35epi0tw87e3/2025-12-05-Trygdeforskningsseminaret_Hern-s-og-Hern-s-Yrkeskarrierer-og-relasjonelle-belastninger.pdf?rlkey=yeyohwrpsappypszpzo9z400b&dl=0"}
+
+- section: norwegian_publications
+  title: "Risikokartlegging, målgruppe og senere utfall for ungdommer kartlagt for opphold i behandlingsinstitusjon 2013-2023"
+  year: 2024
+  abstract: "Denne rapporten analyserer utviklingen i risikoskårer og målgruppevurderinger for ungdom kartlagt med verktøyet Youth Level of Service/Case Management Inventory (YLS/CMI) ved inntak til barnevernsinstitusjon i perioden 2013–2023. Fokus er på ungdom vurdert for behandlingsinstitusjon på grunnlag av alvorlige atferdsvansker og/eller rusproblematikk. Rapporten undersøker utvikling i risikoskårer over tid, sammenhenger mellom YLS/CMI-skår, anbefalt målgruppe og senere utfall, samt mulige effekter av institusjonsplassering for ungdommer i målgruppen «Behandling høy». Analysen bygger på kartleggingsdata fra Bufetat koblet med omfattende registerdata fra Statistisk sentralbyrå. Resultatene viser at YLS/CMI-skår predikerer senere kriminalitet, også etter justering for demografiske og sosioøkonomiske faktorer. Rapporten finner videre at det skjer en gjennomsnittlig nedgang i risikoskår fra pre- til postkartlegging, særlig for ungdom i lavrisikogruppen. Gjennom et regresjonsdiskontinuitetsdesign undersøkes effekten av å få skår over 23. Resultatene er usikre, men kan tyde på at plassering i institusjon for målgruppen «Behandling høy» kan ha en preventiv effekt på framtidig kriminalitet."
+  venue: "Frischrapport 1/2024"
+  venue_url: "https://frischsenteret.no/publication-details/?skrift_id=1706"
+  links:
+    - {label: "Presentasjon", url: "https://www.dropbox.com/scl/fi/37yol6jw0p03ry1tox3gw/Risikokartlegging-m-lgruppe-og-senere-utfall-for-ungdommer.pptx?rlkey=uyp7nxdxao1ysiuiwqu7oavbc&dl=0"}
+
+- section: norwegian_publications
+  title: "Tilpasning til økende aldersgrenser i pensjonssystemet"
+  year: 2024
+  links:
+    - {label: "Presentasjon", url: "https://www.dropbox.com/scl/fi/gsc3r5ssqkv8fudbyfxvc/2024-04-24-Aldersgrenser-og-pensjonsatferd_Samfunns-konomene.pptx?rlkey=m82ift3yls65l3fdcn8eid10g&dl=0"}
+
+- section: norwegian_publications
+  title: "Effektanalyse av redusert minstesats for mottakere av arbeidsavklaringspenger (AAP) under 25 år og avvikling av ung ufør-tillegget"
+  year: 2023
+  abstract: "Formålet med arbeidsavklaringspenger (AAP) er å gi inntekt til personer som har nedsatt arbeidsevne på grunn av sykdom eller skade, mens de får hjelp fra NAV. Fra 1.2.2020 ble minstesatsen for AAP for mottakere under 25 år redusert, og ung-ufør-tillegget for AAP-mottakere ble fjernet. Disse endringene var ment å gjøre minstenivået på AAP likere andre ordninger og redusere sykdomsfokuset. Hoveddelen av rapporten omhandler analyse av redusert minstesats for mottakere av arbeidsavklaringspenger (AAP) under 25 år. Vi fokuserer på denne endringen fordi den påvirket alle nye mottakere av AAP under 25 år som kvalifiserte for minstesatsen. Ung ufør-tillegget var det derimot bare en liten andel som fikk, og mange som fikk det, gjorde det først etter AAP-forløpet. I tillegg har vi ikke hatt tilgjengelig individdata om mottak av ung ufør-tillegget. Arbeidet med evalueringen av endringene ble delt i to faser. Formålet med dette var å sikre at analytiske valg ble gjort på bakgrunn av faglige vurderinger og uavhengig av resultater. Første fase av prosjektet utviklet analysestrategi og -modell på bakgrunn av data fra før regelendringene trådte i kraft. Fase 1 ble avsluttet ved at analytiske valg ble endelig avgjort og loggført. Deretter ble data fra etter endringen gjort tilgjengelig, og fase 2, som besto av estimering av reformeffekter, startet. Metodevalget i fase 1 ble foretatt ved å teste tre ulike statistiske strategier på data fra før regelendringen trådte i kraft. På bakgrunn av disse analysene ble det besluttet å bruke en statistisk modell som antar at tidsutviklingen i innstrømmingen til AAP blant personer under 25 år med lav tidligere inntekt i utgangspunktet hadde en alders-spesifikk trend og en inntekts-spesifikk trend. Disse to trendene kan vi anslå fra grupper som ikke ble påvirket av regelendringene. Den aldersspesifikke trenden ble anslått med data for personer med inntekt over 3G, mens den inntektsspesifikke trenden ble anslått med data for personer som var eldre enn 25 år. Analysene på pre-reform-data indikerte at den endelige analysen ville ha svak presisjon, og dette viste seg å være tilfellet. De kvalitative intervjuene ga videre et klart inntrykk av at saksbehandlere så det som lite sannsynlig at regelendringene hadde fått store konsekvenser for innstrømmingen til AAP. Vi fokuserer derfor på resultatene fra en modellvariant som legger til grunn at AAP-sannsynligheten neppe ville bli mer enn halvert eller mer enn doblet som følge av regelendringene. Dette innbefatter likevel betydelige potensielle effekter. Det skal også nevnes at det at reformtidspunktet sammenfalt med koronaepidemien og samfunnets respons på denne i 2020 bidrar til ytterligere usikkerhet. Resultatene fra vår foretrukne modellspesifikasjon tilsier at regelendringene reduserte antallet nye AAP-tilfeller blant unge med lav inntekt med 208 tilfeller i 2020 og 170 tilfeller i 2021. Ettersom det er rundt 3500 nye AAP-tilfeller årlig fra denne gruppen som helhet, tilsier disse «punktestimatene» en nedgang på rundt 5-6 prosent. Estimatene er imidlertid innenfor den variasjonen fra år til år som forekom i perioden før regelendringene. Vi kan derfor ikke utelukke at de skyldes tilfeldig variasjon som ikke hadde med regelendringene å gjøre. I tråd med analyseplanen som ble utarbeidet i prosjektets første fase, ble den statistiske modellen også benyttet på andre utfall. Her var tanken at de som eventuelt ikke begynte å motta AAP fordi minstesatsen ble redusert, i stedet kunne dukke opp som sosialhjelpsmottagere, i utdanningssystemet eller på kvalifiseringsprogrammet. Her var det kun i analysen av kvalifiseringsprogrammet at analysetilnærmingen viste seg egnet. Vi finner ingen tegn til at regelendringene påvirket overgang til kvalifiseringsprogrammet. Til slutt analyserer vi resultater for faktiske mottakere av arbeidsavklaringspenger. Ettersom vi i de tidligere analysene fant tegn til at innstrømmingen til AAP ble redusert, må vi være varsomme med tolkningen av resultatene for faktiske mottakere, ettersom sammensetningen av denne gruppa kan ha blitt endret. Når vi sammenligner nye mottagere fra før og etter reformen på utfall som tidligere karakterer ved avslutning av grunnskolen og andelen som har fullført videregående skole ser vi imidlertid ingen tegn til slik komposisjonsendring av gruppen. Analysene av de faktiske mottakerne finner at andelen AAP-mottakere under 25 år med supplerende sosialhjelp har økt tydelig fra og med 2020. Det er naturlig å se dette i sammenhengen med reduksjonen i minstesatsen. Funnet er også konsistent med de bekymringene vi møtte da vi intervjuet veiledere fra tre forskjellige NAV-kontor. De var bekymret for at regelendringene ville føre til en kraftig økning i supplerende sosialhjelp for de yngste mottakerne. Imidlertid må det understrekes at det fortsatt er få AAP-mottakere som mottar supplerende sosialhjelp også etter regelendringene. Blant nye mottakere av AAP under 25 år i 2020 og 2021 var det i en gjennomsnittlig måned 11 prosent som mottok sosialhjelp, mot 7 prosent hos nye mottakere i alderen 25-28 år. Når det gjelder avgang fra AAP og tilgang til uføretrygd, arbeid eller utdanning, finner vi ingen klare endringer fra og med 2020. Avgangsmønsteret fra AAP er tilnærmet likt for yngre og eldre nye mottakere over tid. Mottakere av AAP i alderen 18-23 ser ut til å bli noe raskere avklart til uføretrygd enn mottakere i alderen 25-28. Dette var tilfellet også før regelendringene, men det er en svak antydning til at dette kan ha økt noe for nye AAP-mottakere i alderen 18-23 år fra 2020. Imidlertid er forskjellene små og usikkerheten stor."
+  authors:
+    - {name: "Ole Røgeberg", url: "https://frischsenteret.no/english/people-details/?person_id=olejr"}
+    - {name: "Helene Berg"}
+    - {name: "Gro Malene Vestøl"}
+  venue: "Frischrapport 5/2023"
+  venue_url: "https://www.nav.no/_/attachment/download/ff9d0d9f-d894-403a-9a59-88a2f3e04424:d2af212d2a7031ea39fecb5313bcc70c793fa606/Frischrapport%205-2023%20Effektanalyse%20av%20redusert%20minstesats%20for%20unge%20AAP%20.pdf"
+  links:
+    - {label: "Sammendrag hos NAV", url: "https://www.nav.no/no/nav-og-samfunn/kunnskap/forskningsrapporter-og-evalueringer-finansiert-av-nav/sykefravaer-og-arbeidsmiljo-rapportarkiv2/effektanalyse-av-redusert-minstesats-for-mottakere-av-arbeidsavklaringspenger-aap-under-25-ar-og-avvikling-av-ung-ufor-tillegget"}
+    - {label: "Pre-analysis plan", url: "https://osf.io/d4ps6/"}
+    - {label: "Presentation", url: "https://www.dropbox.com/s/mxyfzgkm4er9yzh/2022-11-22%20NTNU-welfare%20state%20and%20inequality%20seminar.pptx?dl=0"}
+    - {label: "pdf", url: "https://www.dropbox.com/s/2wbdcy725mgtmkm/2022-11-22%20NTNU-welfare%20state%20and%20inequality%20seminar.pdf?dl=0"}
+
+- section: norwegian_publications
+  title: "Hvordan bør arbeidsmarkedstiltak brukes for å øke sysselsettingen?"
+  year: 2024
+  links:
+    - {label: "Presentasjon", url: "https://www.dropbox.com/scl/fi/8vz8w5ruf1auek5gzd4tl/2024-04-23-Frisch-Arbeidsmarkedstiltak_m-te-med-H-yre-hos-I.pptx?rlkey=t7xy49t71wncetno2wnmrfq04&dl=0"}
+
+- section: norwegian_publications
+  title: "Hvem er «sliterne» i arbeidslivet? Yrkesvise forskjeller i livsinntekt, uførhet, avgangsalder og pensjon"
+  year: 2024
+  abstract: "Denne artikkelen undersøker hvordan livsinntekt, avgangsalder, samlet pensjon og risiko for uførhet og tidlig død henger sammen med yrke. Analysen bygger på tilnærmet komplette livsinntektshistorier for alle 51-åringer som var bosatt i Norge og i arbeid i 2003. Vi dokumenterer store og systematiske forskjeller i avgangsmønsteret fra ulike yrker. Forskjellene forklares i vesentlig grad av ulik dødelighet og ulik tilstrømning til uføretrygd. Vi finner også store forskjeller i inntektsprofiler, både når det gjelder lønn, og når det gjelder påfølgende pensjon. Yrker med tidlig forventet avgang fra arbeidslivet er forbundet med både lav yrkesinntekt og lav samlet pensjon. Artikkelen belyser fordelingsutfordringer i dagens pensjonssystem, og foreslår virkemidler for å utvikle et mer utjevnende pensjonssystem."
+  authors:
+    - {name: "Erik Hernæs", url: "https://frischsenteret.no/english/people-details/?person_id=erikhe"}
+    - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+  venue: "Søkelys på arbeidslivet, Volume 41, Number 1, 5 February 2024"
+  venue_url: "https://doi.org/10.18261/spa.41.1.4"
+  open_access: true
+  note: "Followed by a published exchange: a comment from Axel West Pedersen, and the authors' reply."
+  links:
+    - {label: "Kommentar fra Axel West Pedersen (2025)", url: "https://www.idunn.no/doi/10.18261/spa.42.1.1"}
+    - {label: "Vårt svar på kommentaren (2025)", url: "https://www.idunn.no/eprint/5DCGNKB9MEMPTJMSWP4H/full"}
+
+- section: norwegian_publications
+  title: "Barn, unge og familier i barnevernet - En longitudinell registerstudie. Delprosjekt 2: Hvordan går det med barna?"
+  year: 2022
+  abstract: "I dette prosjektet har vi analysert registerdata som inkluderer alle barn og unge i Norge 1994-2018. Vi har studert barn med barnevernstiltak og undersøkt hvordan det går med disse barna som barn, ungdommer og unge voksne. Kjernen i prosjektet er utnyttelse av registerdata med individinformasjon fra mange ulike kilder. Rapporten begynner rent deskriptivt med å se på hvordan det går med barn som har hatt ulike tiltak sammenliknet med barn som ikke har mottatt barnevernstiltak. Her finner vi store forskjeller. Imidlertid er det slik at både barnevernstiltak generelt og type barnevernstiltak er rettet mot utvalgte målgrupper. Det nødvendiggjør sammenlikningsgrupper som er mer spissede enn befolkningen for øvrig. Dette er nødvendig både for å tolke størrelsen på sammenhengene og for å komme nærmere noe som kan tolkes som hvilken betydning barnevernstiltak har. Når vi gjør dette, finner vi for eksempel at det stort sett går like bra eller bedre med barn plassert i fosterhjem som barn som med barn som startet med tiltak i hjemmet. Gjennom studien har vi brukt ulike sammenlikningsgrupper. Dette er en videreutvikling av tidligere studier med registerdata og utfall for barn og unge med barnevernsbakgrunn. Vi har også trukket inn andre registre knyttet til helse som besøk hos fastlege og BUP og flere bakgrunnsvariabler enn tidligere for å få et så godt grunnlag som mulig for å vurdere hvordan det går med barn og unge med tiltak fra barnevernet og hvilken betydning ulike tiltak kan ha."
+  authors:
+    - {name: "Nina Drange", url: "https://sites.google.com/site/ninadrange/home"}
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Inger Oterholm", url: "https://www.vid.no/en/employees/inger-oterholm"}
+    - {name: "Oddbjørn Raaum", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
+    - {name: "Tor Slettebø", url: "https://www.vid.no/en/employees/tor-slettebo"}
+  links:
+    - {label: "Rapport 2/2022", url: "https://frischsenteret.no/wp-content/uploads/2025/07/rapp22_02.pdf"}
+    - {label: "Presentasjon for Bufdir 2023-05-12", url: "https://www.dropbox.com/s/cmn8vlkhbvxqxxb/2023-05-12%20Bufdir.pptx?dl=0"}
+
+- section: norwegian_publications
+  title: "Barn, unge og familier i barnevernet - En longitudinell registerstudie. Delprosjekt 1: Beskrivende analyser – barn og familier i barnevernet"
+  year: 2021
+  abstract: "I denne rapporten presenterer vi beskrivende analyser av longitudinelle registerdata om barnevernets tiltak og kjennetegn ved familien som mottar disse tiltakene. Hensikten med studien er å utvikle et bredt kunnskapsgrunnlag for bruk i arbeidet med å videreutvikle kvaliteten i barnevernet. Ved å muliggjøre forskning på barnevernet utfra enkeltindividers historier opp til voksen alder, gir norske registerdata en sjelden anledning til å beskrive hvem som kommer i kontakt med barnevernet og hva som kjennetegner livssituasjonen deres, og hva de møter av kompetanse og ressurser i barneverntjenesten. I alle faser av barnevernets arbeid ser vi at mange barn og unge lever i familier med færre ressurser enn vanlig, både i form av økonomi og foreldreutdanning. Mange familier lever under fattigdomsgrensen. Dårlig økonomi kan bidra til belastninger på mange områder og kan ha konsekvenser for deres muligheter for å følge opp barna. Kunnskap om sosioøkonomiske mønstre er viktig kunnskap som bakgrunn for barnevernets kartlegging og oppfølging av familiene, og det understreker behovet for et godt samarbeid mellom ulike tjenester."
+  authors:
+    - {name: "Nina Drange", url: "https://sites.google.com/site/ninadrange/home"}
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Inger Oterholm", url: "https://www.vid.no/en/employees/inger-oterholm"}
+    - {name: "Oddbjørn Raaum", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
+    - {name: "Tor Slettebø", url: "https://www.vid.no/en/employees/tor-slettebo"}
+  links:
+    - {label: "Rapport 4/2021", url: "https://frischsenteret.no/wp-content/uploads/2025/07/rapp21_04.pdf"}
+
+- section: norwegian_publications
+  title: "Hvor troverdig er samfunnsforskningen? Problemer med (den kvantitative) forskningslitteraturen og mulige hjelpemidler"
+  year: 2022
+  links:
+    - {label: "Presentasjon", url: "https://www.dropbox.com/s/s42kcj94erz7g2h/Hern%C3%A6s%202022%20Troverdig%20forskning_Trygdeforskningsseminaret.pptx?dl=0"}
+
+- section: norwegian_publications
+  title: "Kun etter behov? Mottak av pleie- og omsorgstjenester og sammenheng med sosioøkonomisk status"
+  year: 2022
+  abstract: "Mottak av pleie- og omsorgstjenester skal prinsipielt styres av behov alene og ikke sosioøkonomisk posisjon. I denne studien bruker vi registerdata (Gerica, Norsk pasientregister, KUHR og inntekts- og populasjonsregistre fra SSB) til å undersøke sammenhengen mellom sosioøkonomisk status og mottak av pleie- og omsorgstjenester for personer mellom 70 og 90 år som var bosatt i Oslo i perioden 2007–2017 (N = 94 447). Vi finner en klar sosial gradient når det gjelder dødelighet og bruk av helsetjenester ved at personer med lavere livsinntekt har høyere dødelighet og høyere bruk av helsetjenester. Dette indikerer ulikheter i behov knyttet til sosioøkonomisk posisjon. Vi bruker tidligere mottak av helsetjenester i primær- og spesialisthelsetjenesten til å justere for behov for tjenester. Artikkelen måler statistiske sammenhenger eller korrelasjoner, ikke nødvendigvis årsaksbestemte sammenhenger."
+  authors:
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Snorre Kverndokk", url: "https://scholar.google.com/citations?user=fPzDLGYAAAAJ&hl=en"}
+    - {name: "Henning Øien", url: "https://www.fhi.no/en/ab/departments-and-centres/health-services-research/henning-oien/"}
+  venue: "Tidsskrift for omsorgsforskning, 02/2022 (Volum 8)"
+  links:
+    - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/tfo.8.1.13.pdf"}
+
+- section: norwegian_publications
+  title: "Økende inntektssegregering i norske byregioner"
+  year: 2020
+  abstract: "Vi studerer endringer i bosettingsmønsteret i norske nabolag de siste 25 årene (1993–2017), med basis i en indikator som beskriver den gjennomsnittlige forskjellen i inntektsrang mellom voksne innen nabolag (grunnkretser). Inntektsrang er beregnet nasjonalt eller innenfor pendlerregioner, og separat etter alder og kjønn for alle mellom 30 og 60 år. Begrepet «segregering» beskriver da en tendens til at personer med lignende inntektsrang i den regionale inntektsfordelingen bosetter seg i samme nabolag. Vi finner tegn på at inntektssegregeringen har økt i Norge etter årtusenskiftet, og at denne utviklingen har vært sterkest i Osloregionen og i byene rundt Oslofjorden. Ved å sammenholde utviklingen i ulike arbeidsmarkedsregioner viser vi at innvandring samvarierer sterkt med den økte segregeringen."
+  authors:
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+  venue: "Tidsskrift for boligforskning, 02/2020 (Volum 3)"
+  venue_url: "https://doi.org/10.18261/issn.2535-5988-2020-02-02"
+  open_access: true
+
+- section: norwegian_publications
+  title: "Hvordan påvirker økt bruk av vilkår for sosialhjelp sysselsetting og lønnsfordeling?"
+  year: 2018
+  abstract: "Artikkelen evaluerer virkninger av vilkår knyttet til arbeid eller annen aktivitet til unge sosialhjelpsmottakere. Artikkelen utnytter variasjon i praksis innen sosialkontor som kommer fra økt bruk av vilkår fra forskjellig tidspunkt i forskjellige kommuner på 1990- og 2000-tallet. Hovedresultatene er at praksisendringen reduserte andelen som mottar sosialhjelp med rundt et halvt prosentpoeng, økte sysselsettingsraten med rundt ett prosentpoeng, og hadde positive virkninger i den nedre delen av lønnsfordelingen og ingen virkninger i den øvre delen. Virkningen på samlet inntekt er også positiv, noe som betyr at økningen i lønnsinntekt mer enn kompenserte for nedgangen i sosialhjelpsutbetalinger som etterfulgte praksisendringen."
+  venue: "Søkelys på arbeidslivet, Vol 35(1/2), 4-22"
+  venue_url: "https://www.idunn.no/spa/2018/01-02/hvordan_paavirker_oekt_bruk_av_vilkaar_for_sosialhjelp_syssels"
+  open_access: true
+
+- section: norwegian_publications
+  title: "Kompensasjonsgrader i inntektssikringssystemet for personer med svak tilknytning til arbeidsmarkedet"
+  year: 2016
+  abstract: "En femdel av den potensielle arbeidsstyrken i Norge er utenfor arbeidslivet. I Del I gjør vi beregninger av hva disse personene ville ha hatt i inntekt dersom de hadde vært i fulltidsjobb. Et sentralt resultat er at det er store netto inntektsgevinster forbundet med å ha fulltidsjobb framfor trygd, i gjennomsnitt rundt 100 000 kr per år. De største inntektsgevinstene finner vi hos dem som har sosialhjelp eller overgangsstønad som sin hovedinntektskilde, siden disse mottar relativt lite i ytelser. Disse gruppene får dermed også relativt lave estimerte kompensasjonsgrader (inntekt ved trygd dividert på anslått inntekt ved fulltidsarbeid) – rundt 50-60 prosent. Blant trygdede estimerer vi at en liten gruppe, opp til 5 % av utvalget, kan stå ovenfor en kompensasjonsgrad på over 100 %. Kvinner er sterkt overrepresentert i denne gruppa. Del II støtter det dominerende bildet fra Del I som sier at inntektsgevinstene ved arbeid framfor trygd er betydelige, og viser at på grunn av tapt lønnsvekst vil gevinsten ved arbeid bare bli større og større på sikt, og kompensasjonsgraden lavere. Imidlertid vil dette aspektet i liten grad bli tatt hensyn til av en kortsiktig beslutningstaker, siden inntektssiktingssystemet er svært generøst på kort sikt (sykelønn på 100 prosent)."
+  authors:
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+  venue: "Frischrapport 1 (2016)"
+  links:
+    - {label: "Rapport 1/2016", url: "https://frischsenteret.no/wp-content/uploads/2025/07/rapp16_01.pdf"}
+
+- section: discussions
+  title: "PeRCent 2025"
+  year: 2025
+  note: "Discussant comments on a paper by Andersen, Borgbjerg and Ma."
+  links:
+    - {label: "Slides", url: "https://www.dropbox.com/scl/fi/1tjr2i7yii1mgf0gu5owc/2025-11-26-Hern-s-Comment-on-Andersen-Borgbjerg-Ma.pdf?rlkey=rl8k9vl0l9trt14iwn84yqdzz&dl=0"}
+
+- section: discussions
+  title: "NHESG 2025"
+  year: 2025
+  note: "Discussant comments on a paper by Maclean, Pichler and Ziebarth on private vs. public firm responses."
+  links:
+    - {label: "Slides", url: "https://www.dropbox.com/scl/fi/wgtqre67pu2wkdbaoyf05/2025-08-14-NHESG-Maclean-Pichler-Ziebarth-Private-vs-public-firm-responses.pptx?rlkey=r7r56byl86m1d68j4ou20j2um&dl=0"}
+    - {label: "pdf", url: "https://www.dropbox.com/scl/fi/9xome27ar5jhy6wavoas6/2025-08-14-NHESG-Maclean-Pichler-Ziebarth-Private-vs-public-firm-responses.pdf?rlkey=qw2rhc6m8jg1rrfa53yt6728z&dl=0"}
+
+- section: popular_writing
+  title: "Trenger dagens 60-åringer en ekstra ferieuke?"
+  year: 2025
+  venue: "Kronikk i Aftenposten, 14. januar 2025"
+  venue_url: "https://www.aftenposten.no/meninger/debatt/i/d4lldA/trenger-dagens-60-aaringer-en-ekstra-ferieuke"
+
+- section: popular_writing
+  title: "Omleggingen av AFP i offentlig sektor 2025: Økt arbeidstid og høyere inntekt ved 62 år"
+  year: 2025
+  venue: "Stat & Styring, Vol. 35, Iss. 4"
+  venue_url: "https://doi.org/10.18261/stat.35.4.8"
+
+- section: popular_writing
+  title: "Arbeidsrettede arbeidsmarkedstiltak"
+  year: 2022
+  venue: "Stat og styring, 2022, nr. 2 (volum 32)"
+  venue_url: "https://doi.org/10.18261/stat.32.2.13"
+
+- section: popular_writing
+  title: "Reformer av uføretrygdene"
+  year: 2022
+  venue: "Stat og styring, 2022, nr. 1 (volum 32)"
+  venue_url: "https://doi.org/10.18261/stat.32.1.14"
+
+- section: popular_writing
+  title: "Virkninger av rusreform"
+  year: 2021
+  venue: "Stat og styring, 2021, nr. 3 (volum 31)"
+  venue_url: "https://doi.org/10.18261/issn.0809-750X-2021-03-11"
+
+- section: popular_writing
+  title: "Lite virkning av vilkår om aktivitet til unge sosialhjelpsmottakere"
+  year: 2021
+  venue: "Stat og styring, 2021, nr. 2 (volum 31)"
+  venue_url: "https://doi.org/10.18261/issn.0809-750X-2021-02-08"
+
+- section: popular_writing
+  title: "Stor ståhei for liten margin – lønnsomhet hos kommersielle velferdstjenesteprodusenter"
+  year: 2021
+  venue: "Stat og styring, 2021, nr. 1 (volum 31)"
+  venue_url: "https://www.scup.com/doi/10.18261/ISSN0809-750X-2021-01-12"
+
+- section: popular_writing
+  title: "Hvem bor i barnevernsinstitusjon?"
+  year: 2020
+  venue: "Stat og styring, 2020, nr. 4 (volum 30)"
+  venue_url: "https://doi.org/10.18261/ISSN0809-750X-2020-04-14"
+
+- section: popular_writing
+  title: "Gradert sykemelding"
+  year: 2020
+  venue: "Stat og styring, 2020, nr. 3 (volum 30)"
+  venue_url: "https://doi.org/10.18261/ISSN0809-750X-2020-03-13"
+
+- section: popular_writing
+  title: "Kriser rammer sosialt skjevt"
+  year: 2020
+  venue: "Stat og styring, 2020, nr. 2 (volum 30)"
+  venue_url: "https://frischsenteret.no/wp-content/uploads/2025/07/kriser_rammer_sosialt_skjevt.pdf"
+
+- section: popular_writing
+  title: "Vilkår for sosialhjelp"
+  year: 2020
+  venue: "Stat og styring, 2020, nr. 1 (volum 30)"
+  venue_url: "https://www.idunn.no/stat/2020/01/vilkaar_for_sosialhjelp"
+
+- section: popular_writing
+  title: "Eksperimenter kan gi bedre beslutningsgrunnlag"
+  year: 2019
+  venue: "Kommunal rapport, 2019-12-13"
+  venue_url: "https://web.archive.org/web/20200124103053/https://kommunal-rapport.no/meninger/kronikk/2019/12/eksperimenter-kan-gi-bedre-beslutningsgrunnlag"
+
+- section: popular_writing
+  title: "Nyttig aktivitetsplikt for alle er en utfordring"
+  year: 2019
+  venue: "Kommunal rapport, 2019-10-11"
+  venue_url: "https://web.archive.org/web/20191118044724/https://www.kommunal-rapport.no/meninger/kronikk/2019/10/nyttig-aktivitetsplikt-alle-er-en-utfordring"
+
+- section: popular_writing
+  title: "Lavere fravær i Utøya-berørte kommuner"
+  year: 2019
+  venue: "Kommunal rapport, 2019-08-07"
+  venue_url: "https://web.archive.org/web/20191205233629/https://www.kommunal-rapport.no/meninger/kronikk/2019/07/lavere-sykefravaer-i-utoya-berorte-kommuner"
+
+- section: popular_writing
+  title: "Vilkår for sosialhjelp virker"
+  year: 2019
+  venue: "Kommunal rapport, 2019-05-20"
+  venue_url: "https://web.archive.org/web/20191207111444/https://kommunal-rapport.no/meninger/kronikk/2019/05/vilkar-sosialhjelp-virker"

@@ -1,0 +1,47 @@
+{% assign p = include.paper %}
+{% assign is_no = false %}
+{% if p.section == "norwegian_publications" or p.section == "popular_writing" %}{% assign is_no = true %}{% endif %}
+<article class="paper">
+  <h3 class="paper-title">
+    {{ p.title }}
+    {% if p.abstract %}<button type="button" class="abstract-btn" aria-expanded="false">+</button>{% endif %}
+  </h3>
+
+  {% if p.abstract %}
+  <p class="paper-abstract" hidden>{{ p.abstract }}</p>
+  {% endif %}
+
+  {% assign merge_year_into_venue = false %}
+  {% if p.year and p.venue and p.authors == nil %}{% assign merge_year_into_venue = true %}{% endif %}
+
+  {% if p.authors or (p.year and merge_year_into_venue == false) %}
+  <p class="paper-meta">
+    {%- if p.year %}{{ p.year }}{% endif -%}
+    {%- if p.year and p.authors %} · {% endif -%}
+    {%- if p.authors -%}
+      {% if is_no %}med{% else %}with{% endif %}
+      {% assign n = p.authors.size %}
+      {% for a in p.authors %}
+        {%- if a.url %}<a href="{{ a.url }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif -%}
+        {%- assign remaining = n | minus: forloop.index -%}
+        {%- if remaining == 1 %} {% if is_no %}og{% else %}and{% endif %} {% elsif remaining > 1 %}, {% endif -%}
+      {% endfor -%}
+      {%- if p.et_al %}, et al.{% endif %}
+    {%- endif %}
+  </p>
+  {% endif %}
+
+  {% if p.venue %}
+  <p class="paper-venue">{% if merge_year_into_venue %}{{ p.year }} · {% endif %}{% if p.venue_url %}<a href="{{ p.venue_url }}">{{ p.venue }}</a>{% else %}{{ p.venue }}{% endif %}{% if p.open_access %} (open access){% endif %}</p>
+  {% endif %}
+
+  {% if p.note %}<p class="paper-note">{{ p.note }}</p>{% endif %}
+
+  {% if p.links or p.media %}
+  <p class="paper-links">
+    {% if p.links %}{% for link in p.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}{% endif -%}
+    {%- if p.links and p.media %} · {% endif -%}
+    {%- if p.media %}Media: {% for link in p.media %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
+  </p>
+  {% endif %}
+</article>
