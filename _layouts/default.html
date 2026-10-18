@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% if site.umami.website_id %}<script defer src="https://cloud.umami.is/script.js" data-website-id="{{ site.umami.website_id }}" data-domains="{{ site.umami.domain }}"></script>{% endif %}
 </head>
 <body>
   <header class="site-header">

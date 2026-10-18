@@ -20,6 +20,17 @@ social:
     - https://scholar.google.com/citations?user=dNIe1mYAAAAJ&hl=no&oi=ao
     - http://oeysteinmhernaes.com
 
+# Visitor statistics in Umami Cloud: no cookies, no IP addresses stored, so no consent banner.
+# The script only reports from `domain`, so local previews (jekyll serve) are never counted.
+# Outgoing link clicks and opened abstracts are tagged in assets/js/main.js.
+umami:
+  website_id: "4c5e30ca-3eab-49e9-a14d-1403f0c87e9f"
+  domain: "oeysteinhernaes.github.io"
+
+# Google Search Console ownership check, rendered as a meta tag by jekyll-seo-tag.
+webmaster_verifications:
+  google: "rKrgf0cQN3wyW8eueE1YqDtK1nvYDwx37sZFRywy78U"
+
 # Default social-share preview image (og:image / twitter:image) for every page.
 defaults:
   - scope:
