@@ -1,12 +1,13 @@
 ---
 layout: default
-title: "Vita"
+title: "CV"
+description: "CV for Øystein M. Hernæs, senior researcher at the Ragnar Frisch Centre for Economic Research: education, affiliations, work experience and languages."
 permalink: /cv/
 ---
 
 {% assign v = site.data.vita %}
 
-<h1>Vita</h1>
+<h1>CV</h1>
 
 <section class="personalia">
   <h2>{{ v.personalia.full_name }}</h2>
@@ -14,10 +15,9 @@ permalink: /cv/
     <a href="{{ v.personalia.address_line1_url }}">{{ v.personalia.address_line1 }}</a><br>
     {{ v.personalia.address_line2 }}<br>
     Phone: {{ v.personalia.phone }}<br>
-    E-mail: {{ v.personalia.email }}<br>
+    E-mail: <a href="mailto:{{ v.personalia.email }}">{{ v.personalia.email }}</a><br>
     Nationality: {{ v.personalia.nationality }}
   </p>
-  <p><a href="{{ v.personalia.drive_folder_url }}">Downloadable CV and documents (Drive folder)</a></p>
 </section>
 
 <section>

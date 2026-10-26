@@ -1,14 +1,15 @@
 {% assign p = include.paper %}
 {% assign is_no = false %}
 {% if p.section == "norwegian_publications" or p.section == "popular_writing" %}{% assign is_no = true %}{% endif %}
+{% assign abs_id = p.title | slugify | prepend: "abs-" %}
 <article class="paper">
   <h3 class="paper-title">
     {{ p.title }}
-    {% if p.abstract %}<button type="button" class="abstract-btn" aria-expanded="false">+</button>{% endif %}
+    {% if p.abstract %}<button type="button" class="abstract-btn" aria-label="Abstract" aria-expanded="false" aria-controls="{{ abs_id }}">+</button>{% endif %}
   </h3>
 
   {% if p.abstract %}
-  <p class="paper-abstract" hidden>{{ p.abstract }}</p>
+  <p class="paper-abstract" id="{{ abs_id }}" hidden>{{ p.abstract }}</p>
   {% endif %}
 
   {% assign merge_year_into_venue = false %}
@@ -24,7 +25,7 @@
       {% for a in p.authors %}
         {%- if a.url %}<a href="{{ a.url }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif -%}
         {%- assign remaining = n | minus: forloop.index -%}
-        {%- if remaining == 1 %} {% if is_no %}og{% else %}and{% endif %} {% elsif remaining > 1 %}, {% endif -%}
+        {%- if remaining == 1 and p.et_al != true %} {% if is_no %}og{% else %}and{% endif %} {% elsif remaining >= 1 %}, {% endif -%}
       {% endfor -%}
       {%- if p.et_al %}, et al.{% endif %}
     {%- endif %}

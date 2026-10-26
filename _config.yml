@@ -15,10 +15,11 @@ twitter:
 social:
   links:
     - https://frischsenteret.no/person-details/?person_id=oysteimh
-    - https://twitter.com/ohernaes
+    - https://x.com/ohernaes
     - https://www.linkedin.com/in/%C3%B8ystein-hern%C3%A6s-a526402/
     - https://scholar.google.com/citations?user=dNIe1mYAAAAJ&hl=no&oi=ao
-    - http://oeysteinmhernaes.com
+    - https://bsky.app/profile/oysteinhernaes.bsky.social
+    - https://oeysteinmhernaes.com
 
 # Visitor statistics in Umami Cloud: no cookies, no IP addresses stored, so no consent banner.
 # The script only reports from `domain`, so local previews (jekyll serve) are never counted.

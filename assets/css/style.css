@@ -43,8 +43,18 @@ body {
   line-height: 1.55;
 }
 
-a { color: var(--accent); text-decoration: none; }
-a:hover { text-decoration: underline; }
+/* Links are always underlined (thin and slightly muted): colour alone is not enough, since the link
+   colour is too close to the body text, and the muted link rows below match their surrounding text. */
+a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, currentColor 75%, transparent);
+}
+a:hover { text-decoration-color: currentColor; }
+.site-name, .nav-links a, h2 a { text-decoration: none; }
+h2 a:hover { text-decoration: underline; }
 
 .site-header {
   border-bottom: 1px solid var(--border);
@@ -116,13 +126,13 @@ h2 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 1.15rem;
-  height: 1.15rem;
+  width: 1.5rem;
+  height: 1.5rem;
   margin-left: 0.4rem;
   padding: 0;
   vertical-align: middle;
   font: inherit;
-  font-size: 0.85rem;
+  font-size: 1rem;
   line-height: 1;
   color: var(--muted);
   background: none;

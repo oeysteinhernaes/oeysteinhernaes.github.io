@@ -1,5 +1,5 @@
 blog:
   label: "Blog"
-  url: "http://oeysteinmhernaes.com"
+  url: "https://oeysteinmhernaes.com"
   # Note: WordPress.com-hosted, last post Feb 2023. Kept as an external link for now,
   # same as on the current site — see chat notes on the eventual merge plan.

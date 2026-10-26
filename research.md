@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Research"
+description: "Working papers, journal articles, reports and popular writing by Øystein M. Hernæs on labor, pensions, child welfare, education, health and political economy."
 permalink: /research/
 ---
 

@@ -5,17 +5,17 @@ name: "Øystein M. Hernæs"
 current_position:
   title: "senior researcher"
   institution: "Ragnar Frisch Centre for Economic Research"
-  institution_url: "http://www.frisch.uio.no/"
+  institution_url: "https://frischsenteret.no/"
 
 previous_affiliations:
   - name: "Institute for Social Research (ISF), Oslo"
-    url: "http://www.socialresearch.no/"
+    url: "https://www.samfunnsforskning.no/english/"
   - name: "Vista Analyse"
-    url: "http://vista-analyse.no/"
+    url: "https://vista-analyse.no/"
   - name: "European University Institute, Florence"
     url: "https://www.eui.eu/en/home"
   - name: "ESOP, Department of Economics, University of Oslo"
-    url: "http://www.sv.uio.no/esop/english/"
+    url: "https://www.sv.uio.no/esop/english/"
 
 research_interests: "labor, pensions/retirement, health, education, child welfare services, empirical political economy"
 
@@ -60,20 +60,18 @@ conferences_list:
   inspired_by_label: "spreadsheet compiled by Anne M. Burton and Barton Willage"
   inspired_by_url: "https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit?gid=231408487#gid=231408487"
 
-# Frisch email, used for the on-page Contact section and site footer (per your instruction).
-# The CV/Vita page still shows the gmail address, since that's what you asked to fix here — say
-# the word if you want that changed too.
+# Frisch email, used on the Home contact section, the CV page and the site footer.
 email: "o.m.hernas@frisch.uio.no"
 
 socials:
-  - label: "Twitter"
-    url: "https://twitter.com/ohernaes"
+  - label: "X (Twitter)"
+    url: "https://x.com/ohernaes"
   - label: "LinkedIn"
     url: "https://www.linkedin.com/in/%C3%B8ystein-hern%C3%A6s-a526402/"
   - label: "Google Scholar"
     url: "https://scholar.google.com/citations?user=dNIe1mYAAAAJ&hl=no&oi=ao"
   - label: "My library (LibraryThing)"
-    url: "http://www.librarything.com/profile/ohernaes"
+    url: "https://www.librarything.com/profile/ohernaes"
   - label: "Bluesky"
-    handle: "@oeysteinhernaes.bsky.social"
-    url: ""   # not a hyperlink on the source page, just plain text — left unlinked to match
+    handle: "@oysteinhernaes.bsky.social"
+    url: "https://bsky.app/profile/oysteinhernaes.bsky.social"

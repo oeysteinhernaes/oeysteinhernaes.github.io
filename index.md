@@ -61,7 +61,7 @@ seo:
         {% if s.url and s.url != "" %}<a href="{{ s.url }}">{{ s.label }}</a>{% else %}{{ s.label }}{% if s.handle %}: {{ s.handle }}{% endif %}{% endif %}
       </li>
     {% endfor %}
-    <li>{{ p.email }}</li>
+    <li><a href="mailto:{{ p.email }}">{{ p.email }}</a></li>
   </ul>
   <p><a href="{{ site.data.links.blog.url }}">{{ site.data.links.blog.label }}</a></p>
 </section>

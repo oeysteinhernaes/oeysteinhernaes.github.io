@@ -139,7 +139,7 @@
     - {label: "Op-ed (in Norwegian): Aftenposten 14. januar 2025", url: "https://www.aftenposten.no/meninger/debatt/i/d4lldA/trenger-dagens-60-aaringer-en-ekstra-ferieuke"}
 
 - section: international_publications
-  title: "Performance Pay of Program Providers and Participants' Employment Outcomes: A Field Experiment with employment services in Norway"
+  title: "Performance pay for private program providers and impact on participants: A field experiment with employment services in Norway"
   year: 2025
   abstract: "This study examines whether performance-based pay for private employment service providers improves employment outcomes for program participants compared to traditional hourly compensation. Finding effective ways to outsource public services to external providers has the potential to improve the quality and efficiency of these services. Using a large-scale randomized controlled trial (RCT) conducted in Norway from April 2018 to December 2021, we evaluate the impact of different payment models on the performance of private firms in delivering labor market programs. A total of 4898 unemployed individuals were randomly assigned to either a treatment group (37%), where providers received performance-based pay contingent on participants' employment outcomes, or a control group (63%), where providers were compensated on an hourly basis. Despite the substantial financial incentives involved, our findings reveal no significant differences in employment rates, earnings, or hours worked between the two groups. The results allow us to rule out effects on monthly earnings of ±€5 and employment effects of ±1 percentage points after 12 months. There were no indications of heterogeneous treatment effects across different participant groups. A cost-benefit analysis suggests a supportive case for performance pay due to lower public costs, although this estimate is subject to uncertainty."
   venue: "Labour Economics, Volume 95, August 2025"
@@ -152,7 +152,7 @@
   authors:
     - {name: "Ole Røgeberg", url: "https://frischsenteret.no/english/people-details/?person_id=olejr"}
     - {name: "Mette Sønderskov", url: "https://scholar.google.com/citations?user=J4acxb4AAAAJ&hl=no"}
-    - {name: "Terje Ødegaard", url: "https://www.inn.no/om-hoegskolen/ansatte/terje-odegaard"}
+    - {name: "Terje Ødegaard", url: "https://www.inn.no/finn-en-ansatt/terje-odegaard.html"}
   venue: "Child & Family Social Work, Volume 31, Issue 1, pp. 550-565"
   venue_url: "https://doi.org/10.1111/cfs.13308"
   links:
@@ -185,7 +185,7 @@
   links:
     - {label: "Award announcement", url: "https://www.aere.org/best-jaere-paper-award-recipients"}
     - {label: "IZA Discussion Paper 15194", url: "https://docs.iza.org/dp15194.pdf"}
-    - {label: "CESifo Working Paper 9657", url: "https://www.cesifo.org/en/publications/2022/working-paper/which-households-respond-electricity-peak-pricing-amid-high-levels"}
+    - {label: "CESifo Working Paper 9657", url: "https://www.ifo.de/en/cesifo/publications/2022/working-paper/which-households-respond-electricity-peak-pricing-amid-high-levels"}
     - {label: "Twitter thread", url: "https://x.com/CGarnache/status/1879931633190793432"}
 
 - section: international_publications
@@ -198,6 +198,9 @@
     - {name: "Henning Øien", url: "https://www.fhi.no/en/ab/departments-and-centres/health-services-research/henning-oien/"}
   venue: "Social Science and Medicine, Volume 333, September 2023, 116116"
   venue_url: "https://doi.org/10.1016/j.socscimed.2023.116116"
+  # open_access: Crossref lists the version of record under CC BY 4.0 (OpenAlex: hybrid OA).
+  # ScienceDirect blocks automated checks, so this is not confirmed on the article page itself.
+  open_access: true
 
 - section: international_publications
   title: "Making Activation for Young Welfare Recipients Mandatory"
@@ -206,7 +209,7 @@
   authors:
     - {name: "Espen S. Dahl", url: "https://www.oslomet.no/about/employee/espendah/"}
   venue: "LABOUR: Review of Labour Economics and Industrial Relations, Volume 37, Issue 1, March 2023, Pages 96-121"
-  venue_url: "https://onlinelibrary.wiley.com/doi/10.1111/labr.12238"
+  venue_url: "https://doi.org/10.1111/labr.12238"
   links:
     - {label: "IZA Discussion Paper 15170", url: "https://docs.iza.org/dp15170.pdf"}
 
@@ -215,7 +218,7 @@
   year: 2021
   abstract: "In this article, we study the political implications of terrorism rooted in extremist political ideologies. Our data uniquely allow studying the potential role of party leader evaluations on political outcomes, including voter turnout and vote choice. To strengthen causal identification, we combine an event-study framework with the fact that Norwegians were affected personally to differing degrees by the 22 July 2011 terror attack because of variation in the victims' municipalities of residence. Our main findings suggest that extreme right-wing terrorism influences party vote intentions and evaluations of political leaders strongly in the short run, as well as party choice in actual elections in the longer run. We document shifts within Norway's left-right political blocs rather than shifts between those blocs frequently observed following religious/separatist violence."
   authors:
-    - {name: "Benny Geys", url: "https://www.bi.edu/about-bi/employees/department-of-economics/benny-geys/"}
+    - {name: "Benny Geys", url: "https://www.bi.no/en/about-bi/employees/department-of-economics/benny-geys/"}
   venue: "Public Choice, 187, 481-499 (2021)"
   venue_url: "https://doi.org/10.1007/s11127-020-00789-3"
   open_access: true
@@ -232,9 +235,9 @@
     - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Hernaes2019Going.pdf"}
   media:
     - {label: "Dagens Næringsliv 2014-09-27", url: "https://web.archive.org/web/20170420135354/http://www.dn.no/nyheter/politikkSamfunn/2014/09/26/2156/Arbeidsliv/lavere-sykefravr-for-generasjon-utya"}
-    - {label: "NRK", url: "http://www.nrk.no/nyheter/lavere-sykefravaer-hos-terrorrammede-1.11955130"}
-    - {label: "Klassekampen", url: "http://www.klassekampen.no/article/20140927/NTBO/124822646"}
-    - {label: "Adresseavisen", url: "http://www.adressa.no/nyheter/innenriks/article10173102.ece"}
+    # NRK link removed: nrk.no answers 404 for this article and no archive copy exists.
+    - {label: "Klassekampen", url: "https://web.archive.org/web/20141224082637/http://www.klassekampen.no/article/20140927/NTBO/124822646"}
+    - {label: "Adresseavisen", url: "https://www.adressa.no/nyheter/innenriks/article10173102.ece"}
 
 - section: international_publications
   title: "Distributional effects of welfare reform for young adults: An unconditional quantile regression approach"
@@ -242,6 +245,9 @@
   abstract: "The paper evaluates the distributional effects on earnings and income of requiring young welfare recipients to fulfill conditions related to work and activation. It exploits within-social insurance office variation in policy arising from a geographically staggered reform in Norway. The reform reduced welfare uptake and for women had large, positive effects in the lower part of the earnings distribution. The effect on the distribution of total income is also positive, thus gains in earnings more than offset reduced welfare benefits. Fewer welfare payments and smaller caseloads make the policy highly cost-effective."
   venue: "Labour Economics, Volume 65, August 2020"
   venue_url: "https://doi.org/10.1016/j.labeco.2020.101818"
+  # open_access: Crossref lists the version of record under CC BY 4.0 (OpenAlex: hybrid OA).
+  # ScienceDirect blocks automated checks, so this is not confirmed on the article page itself.
+  open_access: true
   links:
     - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Distributional_effects.pdf"}
     - {label: "IZA Discussion Paper No. 11340", url: "https://www.iza.org/publications/dp/11340"}
@@ -251,7 +257,7 @@
   year: 2019
   abstract: "This article exploits variation in age among first-time eligible citizens in Norwegian elections that arises through voting eligibility rules and two-year election cycles to investigate voting habits. I find that obtaining the right to vote at a lower age is associated with substantially higher turnout among first-time eligible citizens, however, this difference in political participation does not persist for subsequent elections. Building on the established literature on the habitual nature of voting, the results show that getting young citizens to vote once is not sufficient to create a habit of voting, and suggest that how the voting decision is made matter for the habit formation process."
   venue: "Scandinavian Political Studies, Volume 42, Issue 2"
-  venue_url: "https://onlinelibrary.wiley.com/doi/10.1111/1467-9477.12139"
+  venue_url: "https://doi.org/10.1111/1467-9477.12139"
 
 - section: international_publications
   title: "Television, Cognitive Ability, and High School Completion"
@@ -261,16 +267,16 @@
     - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
     - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
   venue: "Journal of Human Resources, Spring 2019 vol. 54 no. 2 371-400"
-  venue_url: "http://jhr.uwpress.org/content/54/2/371.abstract"
+  venue_url: "https://jhr.uwpress.org/content/54/2/371.abstract"
   links:
     - {label: "Preprint (postprint)", url: "https://frischsenteret.no/wp-content/uploads/2025/07/TV_and_cognitive_ability_JHR_postprint.pdf"}
-    - {label: "IZA Discussion Paper No. 9645", url: "http://ftp.iza.org/dp9645.pdf"}
+    - {label: "IZA Discussion Paper No. 9645", url: "https://docs.iza.org/dp9645.pdf"}
   media:
-    - {label: "Pat Sharp (Twitter)", url: "https://twitter.com/patsharp/status/689525153538150400"}
+    - {label: "Pat Sharp (Twitter)", url: "https://x.com/patsharp/status/689525153538150400"}
     - {label: "Dagens Næringsliv 2016-03-18", url: "https://web.archive.org/web/20201108141131/https://www.dn.no/medier/grafen-viser-utviklingen-i-norske-gutters-intelligens-na-tror-forskere-de-har-funnet-sammenhengen/1-1-5604950"}
     - {label: "Aftenposten", url: "https://web.archive.org/web/20160526083227/http://www.aftenposten.no/nyheter/iriks/Norske-gutter-blir-dummere---forskere-mener-TV-kan-ha-skylda-8399224.html"}
-    - {label: "Dagbladet", url: "http://www.dagbladet.no/2016/03/18/kultur/utdanning/intelligens/forskning/tv/43573613/"}
-    - {label: "VG", url: "http://www.vg.no/forbruker/helse/oppvekst/forskere-tror-tv-kan-ha-gjort-norske-gutter-dummere/a/23641275/"}
+    - {label: "Dagbladet", url: "https://www.dagbladet.no/kultur/forskere-tror-tv-kan-ha-gjort-norske-gutter-dummere/60436262"}
+    - {label: "VG", url: "https://www.vg.no/helse/i/ldPm3/forskere-tror-tv-kan-ha-gjort-norske-gutter-dummere"}
     - {label: "The New York Times – the Upshot 2019-07-25", url: "https://www.nytimes.com/2019/07/25/upshot/social-effects-television.html"}
 
 - section: international_publications
@@ -278,26 +284,26 @@
   year: 2018
   abstract: "I evaluate a program aimed at strictly enforcing a requirement that people on long-term sick leave be partly back at work unless explicitly defined as an exception. Employing the synthetic control method, I find that the reform reduced work-hours lost due to sickness absenteeism by 12% in the reform region compared to a comparison unit created by a weighted average of similar regions. The effect is driven by both increased part-time presence of temporary disabled workers and accelerated recovery. Musculoskeletal disorders was the diagnosis group declining the most. The findings imply large savings in social security expenditures."
   venue: "Journal of Health Economics, Volume 62, November 2018, Pages 60-68"
-  venue_url: "https://www.sciencedirect.com/science/article/pii/S0167629617311700"
+  venue_url: "https://doi.org/10.1016/j.jhealeco.2018.09.007"
   links:
     - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Activation_JHealthEcon.pdf"}
-    - {label: "IZA Discussion Paper No. 10991", url: "http://legacy.iza.org/en/webcontent/publications/papers/viewAbstract?dp_id=10991"}
+    - {label: "IZA Discussion Paper No. 10991", url: "https://docs.iza.org/dp10991.pdf"}
 
 - section: international_publications
   title: "Welfare Activation and Youth Crime"
   year: 2019
   abstract: "We evaluate the impact on youth crime of a welfare reform that tightened activation requirements for social assistance clients. The evaluation strategy exploits administrative individual data in combination with geographically differentiated implementation of the reform. We find that the reform reduced crime among teenage boys from economically disadvantaged families. Stronger reform effects on weekday versus weekend crime, reduced school dropout, and favorable long-run outcomes in terms of crime and educational attainment point to both incapacitation and human capital accumulation as key mechanisms. Despite lowered social assistance take-up, we uncover no indication that loss of income support pushed youth into crime."
   authors:
-    - {name: "Bratsberg, B.", url: "https://frischsenteret.no/english/people-details/page/10/?person_id=berntmb"}
-    - {name: "Markussen, S.", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
-    - {name: "Raaum, O.", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
-    - {name: "Røed, K.", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
+    - {name: "Bernt Bratsberg", url: "https://frischsenteret.no/english/people-details/page/10/?person_id=berntmb"}
+    - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
+    - {name: "Oddbjørn Raaum", url: "https://frischsenteret.no/english/people-details/?person_id=oraaum"}
+    - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
   venue: "Review of Economics and Statistics, 101(4): 561-574"
   venue_url: "https://doi.org/10.1162/rest_a_00787"
   open_access: true
   links:
     - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/Welfare_MS20238_final_rev.pdf"}
-    - {label: "IZA Discussion Paper No. 11719", url: "http://ftp.iza.org/dp11719.pdf"}
+    - {label: "IZA Discussion Paper No. 11719", url: "https://docs.iza.org/dp11719.pdf"}
 
 - section: international_publications
   title: "The impact of commercial television on turnout and public policy: Evidence from Norwegian Local Politics"
@@ -306,7 +312,7 @@
   authors:
     - {name: "Sebastian Ellingsen", url: "https://sebastianellingsen.github.io/"}
   venue: "Journal of Public Economics, Volume 159, March 2018, Pages 1-15"
-  venue_url: "https://www.sciencedirect.com/science/article/pii/S0047272718300215"
+  venue_url: "https://doi.org/10.1016/j.jpubeco.2018.02.001"
   links:
     - {label: "Preprint", url: "https://www.dropbox.com/scl/fi/4hv8k0z545ajvogydp6yt/Ellingsen-Hern-s-The-impact-of-commercial-television-on-turnout-and-public-policy-evidence-from-norwegian-local-politics-preprint.pdf?rlkey=f4ye49q8zs4o5k2aye6glbu6q&dl=0"}
 
@@ -318,10 +324,10 @@
     - {name: "Simen Markussen", url: "https://frischsenteret.no/english/people-details/?person_id=simenm"}
     - {name: "Knut Røed", url: "https://frischsenteret.no/english/people-details/?person_id=knutro"}
   venue: "Labour Economics, Vol 48, October 2017, 144-156"
-  venue_url: "http://www.sciencedirect.com/science/article/pii/S0927537116301038"
+  venue_url: "https://doi.org/10.1016/j.labeco.2017.08.003"
   links:
     - {label: "Preprint", url: "https://frischsenteret.no/wp-content/uploads/2025/07/CanWelfare_Labour_Ec.pdf"}
-    - {label: "IZA Discussion Paper 9644", url: "http://ftp.iza.org/dp9644.pdf"}
+    - {label: "IZA Discussion Paper 9644", url: "https://docs.iza.org/dp9644.pdf"}
 
 - section: international_publications
   title: "Demand and Supply of Prostitution"
@@ -331,7 +337,7 @@
     - {name: "Niklas Jakobsson", url: "https://www.kau.se/en/researchers/niklas-jakobsson"}
     - {name: "Andreas Kotsadam", url: "https://andreaskotsadam.wordpress.com/"}
   venue: "Encyclopedia of Law and Economics. Springer."
-  venue_url: "http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7883-6_39-1"
+  venue_url: "https://doi.org/10.1007/978-1-4614-7883-6_39-1"
 
 # Citation confirmed directly against the journal page (doi.org/10.18261/spa.42.3.2): Vol. 42, Iss. 3,
 # pp. 1–26. The old site said "Vol.32, Issue 4, pp 1-25" — that was wrong; corrected per journal record.
@@ -408,8 +414,8 @@
   open_access: true
   note: "Followed by a published exchange: a comment from Axel West Pedersen, and the authors' reply."
   links:
-    - {label: "Kommentar fra Axel West Pedersen (2025)", url: "https://www.idunn.no/doi/10.18261/spa.42.1.1"}
-    - {label: "Vårt svar på kommentaren (2025)", url: "https://www.idunn.no/eprint/5DCGNKB9MEMPTJMSWP4H/full"}
+    - {label: "Kommentar fra Axel West Pedersen (2025)", url: "https://doi.org/10.18261/spa.42.1.1"}
+    - {label: "Vårt svar på kommentaren (2025)", url: "https://doi.org/10.18261/spa.42.1.2"}
 
 - section: norwegian_publications
   title: "Barn, unge og familier i barnevernet - En longitudinell registerstudie. Delprosjekt 2: Hvordan går det med barna?"
@@ -472,7 +478,7 @@
   year: 2018
   abstract: "Artikkelen evaluerer virkninger av vilkår knyttet til arbeid eller annen aktivitet til unge sosialhjelpsmottakere. Artikkelen utnytter variasjon i praksis innen sosialkontor som kommer fra økt bruk av vilkår fra forskjellig tidspunkt i forskjellige kommuner på 1990- og 2000-tallet. Hovedresultatene er at praksisendringen reduserte andelen som mottar sosialhjelp med rundt et halvt prosentpoeng, økte sysselsettingsraten med rundt ett prosentpoeng, og hadde positive virkninger i den nedre delen av lønnsfordelingen og ingen virkninger i den øvre delen. Virkningen på samlet inntekt er også positiv, noe som betyr at økningen i lønnsinntekt mer enn kompenserte for nedgangen i sosialhjelpsutbetalinger som etterfulgte praksisendringen."
   venue: "Søkelys på arbeidslivet, Vol 35(1/2), 4-22"
-  venue_url: "https://www.idunn.no/spa/2018/01-02/hvordan_paavirker_oekt_bruk_av_vilkaar_for_sosialhjelp_syssels"
+  venue_url: "https://doi.org/10.18261/issn.1504-7989-2018-01-02-01"
   open_access: true
 
 - section: norwegian_publications
@@ -512,9 +518,10 @@
   year: 2025
   venue: "Stat & Styring, Vol. 35, Iss. 4"
   venue_url: "https://doi.org/10.18261/stat.35.4.8"
+  open_access: true
 
 - section: popular_writing
-  title: "Arbeidsrettede arbeidsmarkedstiltak"
+  title: "Ny metode for inkludering?"
   year: 2022
   venue: "Stat og styring, 2022, nr. 2 (volum 32)"
   venue_url: "https://doi.org/10.18261/stat.32.2.13"
@@ -541,7 +548,7 @@
   title: "Stor ståhei for liten margin – lønnsomhet hos kommersielle velferdstjenesteprodusenter"
   year: 2021
   venue: "Stat og styring, 2021, nr. 1 (volum 31)"
-  venue_url: "https://www.scup.com/doi/10.18261/ISSN0809-750X-2021-01-12"
+  venue_url: "https://doi.org/10.18261/ISSN0809-750X-2021-01-12"
 
 - section: popular_writing
   title: "Hvem bor i barnevernsinstitusjon?"
@@ -565,7 +572,7 @@
   title: "Vilkår for sosialhjelp"
   year: 2020
   venue: "Stat og styring, 2020, nr. 1 (volum 30)"
-  venue_url: "https://www.idunn.no/stat/2020/01/vilkaar_for_sosialhjelp"
+  venue_url: "https://doi.org/10.18261/issn0809-750x-2020-01-14"
 
 - section: popular_writing
   title: "Eksperimenter kan gi bedre beslutningsgrunnlag"
