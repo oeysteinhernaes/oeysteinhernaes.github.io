@@ -122,7 +122,6 @@
   et_al: true
   venue: "Nature 652, 135–142"
   venue_url: "https://doi.org/10.1038/s41586-025-09844-9"
-  open_access: true
   links:
     - {label: "OSF project link", url: "https://osf.io/q5h2c/"}
 
